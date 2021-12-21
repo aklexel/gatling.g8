@@ -1,6 +1,6 @@
 package $package$.simulations
 
-import $package$.scenarios.AuthScenario
+import $package$.scenarios.TestScenario
 import $package$.settings.Protocol.HTTP
 import $package$.settings.Properties._
 import io.gatling.core.Predef._

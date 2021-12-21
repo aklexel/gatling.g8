@@ -1,2 +1,4 @@
 # gatling.g8
-Giter8 Template for Gatling
+
+A [Giter8][g8] template for [Gatling][gatling] performance test project
+

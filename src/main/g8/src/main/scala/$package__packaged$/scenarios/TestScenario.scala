@@ -15,6 +15,6 @@ object TestScenario {
     .feed(data)
     .exec(
       http("1.2 search")
-        .get("/computers?f=${text}")
+        .get("/computers?f=\${text}")
     )
 }
